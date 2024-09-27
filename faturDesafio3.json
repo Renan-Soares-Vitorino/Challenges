@@ -1,0 +1,20 @@
+
+{
+    "faturamento_diario": [
+      {"data": "2023-09-01", "faturamento": 1000.0},
+      {"data": "2023-09-02", "faturamento": 0.0},  
+      {"data": "2023-09-03", "faturamento": 0.0},    
+      {"data": "2023-09-04", "faturamento": 1500.0},
+      {"data": "2023-09-05", "faturamento": 2000.0},
+      {"data": "2023-09-06", "faturamento": 1800.0},
+      {"data": "2023-09-07", "faturamento": 0.0},    
+      {"data": "2023-09-08", "faturamento": 1300.0},
+      {"data": "2023-09-09", "faturamento": 0.0},   
+      {"data": "2023-09-10", "faturamento": 0.0},    
+      {"data": "2023-09-11", "faturamento": 1700.0},
+      {"data": "2023-09-12", "faturamento": 1600.0},
+      {"data": "2023-09-13", "faturamento": 1900.0},
+      {"data": "2023-09-14", "faturamento": 2100.0},
+      {"data": "2023-09-15", "faturamento": 1400.0}
+    ]
+}     
